@@ -243,6 +243,7 @@ body {
                 transform: scale(1.05);
             }   
         &__img {
+            aspect-ratio: 460/541;
             max-width: 100%;
             margin-bottom: 35px;
         }
@@ -293,6 +294,7 @@ body {
             margin: 0;
         }
         &__img {
+            aspect-ratio: 300/381;
             max-width: 100%;
             margin-bottom: 35px;
         }
@@ -335,6 +337,7 @@ body {
         &-left {
             margin-right: 20px;            
             &>img {
+                aspect-ratio: 280/280;
                 max-width: 100%;
             }
         }
@@ -343,6 +346,7 @@ body {
             flex-direction: column;
             justify-content: space-between;
             &>img {
+                aspect-ratio: 160/130;
                 max-width: 100%;
             }
         }
@@ -422,6 +426,7 @@ body {
             margin-bottom: 30px;
         }
         &__img {
+            aspect-ratio: 300/300;
             max-width: 100%;
             margin-bottom: 25px;
         }
@@ -568,6 +573,7 @@ body {
             margin-right: 0
         }
         &__img {
+            aspect-ratio: 112/24;
             margin-bottom: 22px;
         }
         &__title {
