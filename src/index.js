@@ -2,6 +2,7 @@ import "./index.html";
 import "./index.scss";
 import "./modules/slick-1.8.1/slick/slick"
 import "./modules/slick-1.8.1/slick/slick-theme.css"
+import "./modules/slick-1.8.1/slick/slick.css"
 import $ from 'jquery';
 window.jQuery = $;
 window.$ = $;
